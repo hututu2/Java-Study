@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T14:28:00.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9t3J0H84gSHRAmLH1M8Q" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T14:30:25.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="IFpE7DumS4003uOEDaxc" version="21.8.0" type="github">
   <diagram name="第 1 页" id="6VpoMdF1UtFUlSB7jPXj">
     <mxGraphModel dx="1562" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -55,17 +55,26 @@
         <mxCell id="6vssdcbbBTtyEO5g1ugg-23" value="java.util.HashMap.readObject&lt;br&gt;hash" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="580" width="360" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gErniXCXHLFTvf_z7TUi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gErniXCXHLFTvf_z7TUi-1" target="gErniXCXHLFTvf_z7TUi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gErniXCXHLFTvf_z7TUi-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CC1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="358.5" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gErniXCXHLFTvf_z7TUi-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="70" y="280" width="170" height="187" as="geometry" />
         </mxCell>
         <mxCell id="gErniXCXHLFTvf_z7TUi-3" value="TransformedMap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="136" y="255" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gErniXCXHLFTvf_z7TUi-5" value="LazyMap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="162" y="464" width="70" height="30" as="geometry" />
+          <mxGeometry x="156" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gErniXCXHLFTvf_z7TUi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gErniXCXHLFTvf_z7TUi-6" target="6vssdcbbBTtyEO5g1ugg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gErniXCXHLFTvf_z7TUi-6" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;CC6&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gErniXCXHLFTvf_z7TUi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=0.093;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gErniXCXHLFTvf_z7TUi-1" target="gErniXCXHLFTvf_z7TUi-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
